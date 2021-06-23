@@ -1,0 +1,3 @@
+LoadFile "e:/programdata/python38-32/python38.dll"
+LoadModule wsgi_module "e:/programdata/python38-32/lib/site-packages/mod_wsgi/server/mod_wsgi.cp38-win32.pyd"
+WSGIPythonHome "e:/programdata/python38-32"
